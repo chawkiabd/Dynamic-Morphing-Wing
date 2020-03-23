@@ -36,7 +36,7 @@ Dr Chawki Abdessemed,[Cranfield University](https://www.cranfield.ac.uk/people/d
 
 ## Citing
 If you use one of the UDFs in a scientific publication, we would appreciate citations to the relevant paper or thesis from the list below:
-- Chawki Abdessemed, Yao, Y., Bouferrouk, A., and Narayan, P., 2020. Dynamic Mesh Framework for Morphing Wings CFD - UDF. <a href="https://doi.org/10.5281/zenodo.3724146"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3724146.svg" alt="DOI"></a>
+- Abdessemed. C,, Yao, Y., Bouferrouk, A., and Narayan, P., 2020. Dynamic Mesh Framework for Morphing Wings CFD - UDF. <a href="https://doi.org/10.5281/zenodo.3724146"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3724146.svg" alt="DOI"></a>
 - Abdessemed, C., 2020. Dynamic Mesh Framework for Morphing Wings CFD (Doctoral dissertation).
 -	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2017) “Morphing Airfoils Analysis Using Dynamic Meshing” International Journal of Numerical Methods for Heat and Fluid Flow., Vol. 28 Issue: 5, pp.1117-1133. doi.org/10.1108/HFF-06-2017-0261
 -	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Analysis of a 3D Unsteady Morphing Wing with Seamless Side-edge Transition”. In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. doi: 10.2514/6.2018-3178
