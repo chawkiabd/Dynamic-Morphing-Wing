@@ -9,13 +9,13 @@ This project contains the user-defined functions (UDF) necessary to perform unst
 
 There are three UDFs for each of the following applications:
 1.	2D Downward Dynamic Morphing Flap
-2.	2D Downward Dynamic Morphing Flap
+2.	2D Harmonic Morphing Flap
 3.	3D Morphing Wing with Seamless Side-edge Transition
 
 ## Prerequisites
 The UDFs were specifically developed and tested for ANSYS Fluent 18.1 and above, there is backward compatibility although some differences might be present in the building and compiling process within ANSYS Fluent.
 
-Make sure that a proper compiler is installed on the machine, Visual Studio 2012 for instance, and the environment variables are set accordingly.  
+Make sure that a proper compiler is installed on the machine, Visual Studio 2012 for instance, and the environment variables are set accordingly.
 
 ## Getting Started
 
@@ -26,17 +26,23 @@ Make sure that a proper compiler is installed on the machine, Visual Studio 2012
 5. Select the Add button to add your source file.
 6. Select Build.
 7. After the UDF has been successfully built it is necessary to load the built library by clicking load 
-8. Once this is done, make sure to go to the dynamic mesh tab and assign to each of the wing surfaces a user defined function (Up or down)
-9.The user could preview the mesh motion rom preview mesh option
+8. Once this is done, make sure to go to the dynamic mesh tab and assign to each of the wing surfaces a user-defined function (Up or down)
+9.The user could preview the mesh motion from preview mesh option
+10. Durig an unsteady run the mesh deformation will start from the user-defined morphing start time chosen by the user, this needs to be specified within the UDF
 
 ## Author(s)
-Dr Chawki Abdessemed,[Cranfield University](https://www.cranfield.ac.uk/people/dr-chawki-abdessemed-24525903)
-
-[Linkdin](https://www.linkedin.com/in/chawki/), [Researchgate](https://www.researchgate.net/profile/Chawki_Abdessemed), [Google Scholar](https://scholar.google.co.uk/citations?user=vbTcxkUAAAAJ&hl=en).
+Dr Chawki Abdessemed,
+[Cranfield University](https://www.cranfield.ac.uk/people/dr-chawki-abdessemed-24525903)
+[UWE Bristol](https://people.uwe.ac.uk/Person/ChawkiAbdessemed)
+[Linkdin](https://www.linkedin.com/in/chawki/), 
+[Researchgate](https://www.researchgate.net/profile/Chawki_Abdessemed), 
+[Google Scholar](https://scholar.google.co.uk/citations?user=vbTcxkUAAAAJ&hl=en).
 
 ## Citing
-If you use one of the UDFs in a scientific publication, we would appreciate citations to the relevant paper or thesis from the list below:
-- Abdessemed. C,, Yao, Y., Bouferrouk, A., and Narayan, P., 2020. Dynamic Mesh Framework for Morphing Wings CFD - UDF. <a href="https://doi.org/10.5281/zenodo.3724146"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3724146.svg" alt="DOI"></a>
+If you use one of the UDFs in a thesis work or scientific publication, we would appreciate citations to the following paper and PhD thesis from the list below:
+
+- Abdessemed, C.; Bouferrouk, A.; Yao, Y. (2021) “Aerodynamic and Aeroacoustic Analysis of a Harmonically Morphing Airfoil Using Dynamic Meshing“. Acoustics 2021, 3, 177-199. https://doi.org/10.3390/acoustics3010013
+- Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., 2020. Dynamic Mesh Framework for Morphing Wings CFD - UDF. <a href="https://doi.org/10.5281/zenodo.3724146"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3724146.svg" alt="DOI"></a>
 - Abdessemed, C., 2020. Dynamic Mesh Framework for Morphing Wings CFD (Doctoral dissertation).
 -	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2017) “Morphing Airfoils Analysis Using Dynamic Meshing” International Journal of Numerical Methods for Heat and Fluid Flow., Vol. 28 Issue: 5, pp.1117-1133. doi.org/10.1108/HFF-06-2017-0261
 -	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Analysis of a 3D Unsteady Morphing Wing with Seamless Side-edge Transition”. In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. doi: 10.2514/6.2018-3178
