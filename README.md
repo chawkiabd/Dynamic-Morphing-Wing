@@ -43,11 +43,11 @@ If you use one of the UDFs in a thesis work or scientific publication, we would 
 
 - Abdessemed, C.; Bouferrouk, A.; Yao, Y. (2021) “Aerodynamic and Aeroacoustic Analysis of a Harmonically Morphing Airfoil Using Dynamic Meshing“. Acoustics 2021, 3, 177-199. https://doi.org/10.3390/acoustics3010013
 - Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., 2020. Dynamic Mesh Framework for Morphing Wings CFD - UDF. <a href="https://doi.org/10.5281/zenodo.3724146"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3724146.svg" alt="DOI"></a>
-- Abdessemed, C., 2020. Dynamic Mesh Framework for Morphing Wings CFD (Doctoral dissertation).
--	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2017) “Morphing Airfoils Analysis Using Dynamic Meshing” International Journal of Numerical Methods for Heat and Fluid Flow., Vol. 28 Issue: 5, pp.1117-1133. doi.org/10.1108/HFF-06-2017-0261
--	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Analysis of a 3D Unsteady Morphing Wing with Seamless Side-edge Transition”. In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. doi: 10.2514/6.2018-3178
--	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Aerodynamic Analysis of a Harmonically Morphing Flap Using a Hybrid Turbulence Model and Dynamic Meshing”, In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. doi: 10.2514/6.2018-3813
--	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2019) “Flow Response to Rapid Morphing Flap Deflection”, in: 54th 3AF International Conference on Applied Aerodynamics, Paris, France, 26 – 28 March 2019.
+- Abdessemed, C., 2020. Dynamic Mesh Framework for Morphing Wings CFD (Doctoral dissertation).https://uwe-repository.worktribe.com/output/1490739
+-	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2017) “Morphing Airfoils Analysis Using Dynamic Meshing” International Journal of Numerical Methods for Heat and Fluid Flow., Vol. 28 Issue: 5, pp.1117-1133. https://doi.org10.1108/HFF-06-2017-0261
+-	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Analysis of a 3D Unsteady Morphing Wing with Seamless Side-edge Transition”. In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. https://doi.org/10.2514/6.2018-3178
+-	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Aerodynamic Analysis of a Harmonically Morphing Flap Using a Hybrid Turbulence Model and Dynamic Meshing”, In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. https://doi.org/0.2514/6.2018-3813
+-	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2019) “Flow Response to Rapid Morphing Flap Deflection”, in: 54th 3AF International Conference on Applied Aerodynamics, Paris, France, 26 – 28 March 2019. [Link](https://www.researchgate.net/publication/332244621_Flow_response_to_rapid_morphing_flap_deflection)
 
 ## Acknowledgments
 Chawki Abdessemed gratefully acknowledges the studentship funding  received  from  the  Engineering  Modelling  and Simulation  Research  Group,  University  of  the  West  of England, Bristol, UK.
