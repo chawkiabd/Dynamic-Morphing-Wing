@@ -1,6 +1,10 @@
-<a href="https://www.researchgate.net/publication/324760492_Morphing_airfoils_analysis_using_dynamic_meshing"><img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/image34.gif" title="Dynamic Morphing" alt="Morphing" align="middle"></a>
-
  Flow Response to Rapid Morphing Flap Deflection from [Article](https://doi.org/10.3390/fluids6050180)
+
+
+<a href="https://doi.org/10.3390/fluids6050180"><img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/Fluids_video.gif" title="Dynamic Morphing 2" alt="Morphing video" align="middle"></a>
+
+
+
 
 
 
@@ -49,6 +53,9 @@ If you use one of the UDFs in a thesis work or scientific publication, we would 
 -	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Analysis of a 3D Unsteady Morphing Wing with Seamless Side-edge Transition”. In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. https://doi.org/10.2514/6.2018-3178
 -	Abdessemed, C., Yao, Y., Bouferrouk, A. and Narayan, P. (2018) “Aerodynamic Analysis of a Harmonically Morphing Flap Using a Hybrid Turbulence Model and Dynamic Meshing”, In: 2018 Applied Aerodynamics Conference Atlanta, Georgia, 25 - 29 June 2018. https://doi.org/0.2514/6.2018-3813
 -	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2019) “Flow Response to Rapid Morphing Flap Deflection”, in: 54th 3AF International Conference on Applied Aerodynamics, Paris, France, 26 – 28 March 2019. [Link](https://www.researchgate.net/publication/332244621_Flow_response_to_rapid_morphing_flap_deflection)
+
+<a href="https://doi.org/10.3390/fluids6050180"><img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/image34.gif" title="Dynamic Morphing" alt="Morphing" align="middle"></a>
+
 
 ## Acknowledgments
 Chawki Abdessemed gratefully acknowledges the studentship funding  received  from  the  Engineering  Modelling  and Simulation  Research  Group,  University  of  the  West  of England, Bristol, UK.
