@@ -14,8 +14,8 @@
   
   
 #define Thick       0.12        /*Airfoil thickness 12/100 in NACA 0012 */  
-#define FTT         0.20001     /*Time in s when the moprhing starts*/  
-#define chord       0.2286      /*Airfoil chord*/  
+#define FTT         0.20001     /*Time in s when the morphing starts*/  
+#define chord       0.2286      /*Airfoil chord (m)*/  
   
   
 DEFINE_GRID_MOTION(Up, domain, dt, time, dtime)  
@@ -33,9 +33,9 @@ DEFINE_GRID_MOTION(Up, domain, dt, time, dtime)
     h   =   -0.025*chord;           /*h the half-amplitude of the TEF deflection*/  
     l   = 0.05*chord;               /*l the seamless transition size*/  
     ltrans_start    = 0.3*chord;    /*left transition start*/  
-    ltrans_end  = 0.35*chord;       /*left transition end*/  
+    ltrans_end      = 0.35*chord;       /*left transition end*/  
     rtrans_start    = 0.65*chord;   /*Right transition start*/  
-    rtrans_end  = 0.7*chord;        /*Right transition end*/  
+    rtrans_end      = 0.7*chord;        /*Right transition end*/  
       
 /* Set/activate the deforming flag on adjacent cell zone, which      */  
 /* means that the cells adjacent to the deforming wall will also be  */  
@@ -72,14 +72,14 @@ DEFINE_GRID_MOTION(Up, domain, dt, time, dtime)
   
             W_t = (h*cos(M_PI*z/l)-h) ;       
   
-            /*Airfoil thickness distribution */  
+            /*Airfoil thickness distribution for NACA0012*/  
               
         thickness= (chord*Thick / 0.2) * (0.2969*sqrt(x/chord)-0.1260*x/chord-0.3516*pow((x/chord),2) + 0.2843*pow((x/chord),3)-0.1036*pow((x/chord),4));   
             /*Loop over the morphing portion*/  
               
-        if ( x > x_s) {  
-        if (z>ltrans_start || z< rtrans_end){   
-            /*define  motion before T_MAX*/  
+          if ( x > x_s) {  
+          if (z>ltrans_start || z< rtrans_end){   
+            /*Define  motion before T_MAX*/  
   
             if ( CURRENT_TIME >= FTT && CURRENT_TIME <= T_max) {   
             /*transition modeling*/  
