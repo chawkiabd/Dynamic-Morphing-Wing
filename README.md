@@ -32,18 +32,18 @@ Make sure that a proper compiler is installed on the machine, Visual Studio 2012
 7. After the UDF has been successfully built it is necessary to load the built library by clicking load 
 8. Once this is done, make sure to go to the dynamic mesh tab and assign to each of the wing surfaces a user-defined function (Up or down)
 9.The user could preview the mesh motion from preview mesh option
-10. Durig an unsteady run the mesh deformation will start from the user-defined morphing start time chosen by the user, this needs to be specified within the UDF
+10. During an unsteady run the mesh deformation will start from the user-defined morphing start time chosen by the user, this needs to be specified within the UDF
 
 ## Author(s)
 Dr Chawki Abdessemed,
 [Cranfield University](https://www.cranfield.ac.uk/people/dr-chawki-abdessemed-24525903)
 [UWE Bristol](https://people.uwe.ac.uk/Person/ChawkiAbdessemed)
-[Linkdin](https://www.linkedin.com/in/chawki/), 
-[Researchgate](https://www.researchgate.net/profile/Chawki_Abdessemed), 
+[LinkdIn](https://www.linkedin.com/in/chawki/), 
+[Researchgate](https://www.researchgate.net/profile/Chawki-Abdessemed), 
 [Google Scholar](https://scholar.google.co.uk/citations?user=vbTcxkUAAAAJ&hl=en).
 
 ## Citing
-If you use one of the UDFs in a thesis work or scientific publication, we would appreciate citations to the following paper and PhD thesis from the list below:
+If you use one of the UDFs in a thesis work or scientific publication, we would appreciate citations to the following papers and PhD thesis from the list below:
 
 - Abdessemed, C.; Yao, Y.; Bouferrouk, A. Near Stall Unsteady Flow Responses to Morphing Flap Deflections. Fluids 2021, 6, 180. https://doi.org/10.3390/fluids6050180
 - Abdessemed, C.; Bouferrouk, A.; Yao, Y. (2021) “Aerodynamic and Aeroacoustic Analysis of a Harmonically Morphing Airfoil Using Dynamic Meshing“. Acoustics 2021, 3, 177-199. https://doi.org/10.3390/acoustics3010013
