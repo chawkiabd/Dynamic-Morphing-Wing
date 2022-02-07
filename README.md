@@ -44,7 +44,7 @@ Dr Chawki Abdessemed,
 
 ## Citing
 If you use one of the UDFs in a thesis work or scientific publication, we would appreciate citations to the following papers and PhD thesis from the list below:
-
+- Abdessemed, C.; Bouferrouk, A.; Yao, Y. Effects of an Unsteady Morphing Wing with Seamless Side-Edge Transition on Aerodynamic Performance. Energies 2022, 15, 1093. https://doi.org/10.3390/en15031093 
 - Abdessemed, C.; Yao, Y.; Bouferrouk, A. Near Stall Unsteady Flow Responses to Morphing Flap Deflections. Fluids 2021, 6, 180. https://doi.org/10.3390/fluids6050180
 - Abdessemed, C.; Bouferrouk, A.; Yao, Y. (2021) “Aerodynamic and Aeroacoustic Analysis of a Harmonically Morphing Airfoil Using Dynamic Meshing“. Acoustics 2021, 3, 177-199. https://doi.org/10.3390/acoustics3010013
 - Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., 2020. Dynamic Mesh Framework for Morphing Wings CFD - UDF. <a href="https://doi.org/10.5281/zenodo.3724146"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3724146.svg" alt="DOI"></a>
