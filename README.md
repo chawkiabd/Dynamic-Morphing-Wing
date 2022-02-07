@@ -6,8 +6,7 @@
  Unsteady Morphing Wing with Seamless Side-Edge Transition from [Article](https://doi.org/10.3390/en15031093 )
 
 
-<a href="https://doi.org/10.3390/en15031093 "><img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/
-Picture1.gif " title="Dynamic Morphing 2" alt="Morphing gif" align="middle"></a>
+<a href="https://doi.org/10.3390/en15031093 "><img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/Picture1.gif" title="Dynamic Morphing 2" alt="Morphing gif" align="middle"></a>
 
 
 
