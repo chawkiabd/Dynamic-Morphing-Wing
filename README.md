@@ -58,9 +58,9 @@ If you use one of the UDFs in a thesis work or scientific publication, we would 
 -	Abdessemed, C., Yao, Y., Bouferrouk, A., and Narayan, P., (2019) “Flow Response to Rapid Morphing Flap Deflection”, in: 54th 3AF International Conference on Applied Aerodynamics, Paris, France, 26 – 28 March 2019. [Link](https://www.researchgate.net/publication/332244621_Flow_response_to_rapid_morphing_flap_deflection)
 
 
-<p float="middle">
+
 <a href="https://doi.org/10.3390/fluids6050180"><img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/image34.gif" title="Dynamic Morphing" alt="Morphing" align="middle"></a>
-</p>
+
 
 ## Acknowledgments
 Chawki Abdessemed gratefully acknowledges the studentship funding  received  from  the  Engineering  Modelling  and Simulation  Research  Group,  University  of  the  West  of England, Bristol, UK.
