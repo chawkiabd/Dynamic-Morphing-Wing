@@ -8,7 +8,10 @@
 
 <a href="https://doi.org/10.3390/en15031093 "><img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/Picture1.gif" title="Dynamic Morphing 2" alt="Morphing gif" align="middle"></a>
 
-
+<p float="left">
+  <img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/Picture1.gif" width="100" />
+  <img src="https://github.com/chawkiabd/Dynamic-Morphing-Wing/blob/master/Picture1.gif" width="100" /> 
+</p>
 
 
 # Dynamic Morphing Wing CFD
