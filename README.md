@@ -39,8 +39,6 @@ Make sure that a proper compiler is installed on the machine, Visual Studio 2012
 
 ## Author(s)
 Dr Chawki Abdessemed,
-[Cranfield University](https://www.cranfield.ac.uk/people/dr-chawki-abdessemed-24525903)
-[UWE Bristol](https://people.uwe.ac.uk/Person/ChawkiAbdessemed)
 [LinkdIn](https://www.linkedin.com/in/chawki/), 
 [Researchgate](https://www.researchgate.net/profile/Chawki-Abdessemed), 
 [Google Scholar](https://scholar.google.co.uk/citations?user=vbTcxkUAAAAJ&hl=en).
